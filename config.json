@@ -1,8 +1,26 @@
 {
   "request": {
     "headers": {
-      "cookie": "mid=Yo8yawAEAAEM3ghFyzK53eKCpb0L; ig_did=FEE932B0-ED11-4635-A0CE-223E178A5E74; datr=6BafYusNtRI2G6cb6M1ZpWqe; shbid=\"114\\0548397574991\\0541686503902:01f7dbbe21afcbdd960f42672f3b541124cf9e7012428cbcfa9fd6c09a5eaeea03029ef4\"; shbts=\"1654967902\\0548397574991\\0541686503902:01f7d86adc9fe5b8bb80be426b99c4c91ed32a2cadf2895c17cb2f206e02335faf23d152\"; ds_user_id=8397574991; sessionid=8397574991%3AsUhufRLMyUxi3A%3A15; csrftoken=wgIkqvowK12pQzBqaNDpN3XQfuQTPU8B; rur=\"ODN\\0548397574991\\0541686730314:01f7fe42bbc6a0b7900dd195094785cb0e643f12386b5d0bee1d151bf8779d09a63724db\"",
-      "x-ig-app-id": "936619743392459"
+      "cookie": "ig_did=47FCABEA-1116-4221-822E-15D061A85331; mid=XiBk9QALAAFJsNFN011FQ6rNZz2_; fbm_124024574287414=base_domain=.instagram.com; datr=4R6hYsc906HqZPuZowD3aRU2; ds_user_id=8397574991; csrftoken=Ben4ytqee2KfKhKfbxwEMa6EEgrLCxd5; shbid=\"114\\0548397574991\\0541686947332:01f7dcd91cee429c61fcd490c5cb8ca80b6e97b9fe25ec6ce6e3eb1fb131cb67c9494224\"; shbts=\"1655411332\\0548397574991\\0541686947332:01f733df3bc12ef267c1dc6146e66b62e928e2ec28dc764f3714709650797c0da4890211\"; fbsr_124024574287414=oZaYdxRVJBnjz8Na2sE6w_AsKtfvB7VM4hbpxacqIVk.eyJ1c2VyX2lkIjoiMTAwMDAwNDE5Mzc1NzEzIiwiY29kZSI6IkFRQmZUcmdtUHpsc2hqLVlCQThTQmFjNmp2dDB5ZF9zWnNmMDdZRkNzdnU3VTdsRy1tRFhhUXktUmVGZHdfUTRuS244RmhsajczV3lUVnRwTFFJRUptdW5sa3dCMFV4cGdFX3hvUDhsWFEwWml3emhfZ1ZOcWFtMFNpTnQ5SDJjRmFTVk1vQUR1bUI3cnlXWE04RlgwZ0pmVmdhMWN3LW1WZDU4VVRIQ0E2YWwtNDd5VXhXQzJORDJRSUJIeEp3bmctNm5nek14MmN6NGhOeUVxd2ZSOUNoaTY3LWhidWRJV0NMRFNDSWxHN1FGcHFhS3lONFJ0SW5mUDJSaG1iVzBwQWVva2Fjei0xTng5ZjBlaWpnRjJhMk1DZC1uZ3BkNzBwbzhQbS0zNlUtZXhrd1ZRZlNGMWxmYjVydE8xN0JtbDhFQjIyVXhkSzl4U0RIRXZNTGdFbFh6d0ZTM09NdVhzNUdtM1RhRUQ1ZlFvZyIsIm9hdXRoX3Rva2VuIjoiRUFBQnd6TGl4bmpZQkFGemUxenZEY3djV0NIWkE4SFdOdlpDcjBGaGhaQThjM0VmcUo3VUR6QXZUVzlBV1ZVNmxnQ2NLQVNRWkJ1ZkUzZVRnRUFSZWRUUTcwOVJqU0cydjFqUWdndFFXN2tTbllKTG02cXk1TXZHOG9SYUpEWFNGZzY4VHd2SzFCVkdRb0d1aVRFV3V2R0tmcm81d0dFYWFzYlNtRW04YlFaQlpCNXFNRTZaQk9vVSIsImFsZ29yaXRobSI6IkhNQUMtU0hBMjU2IiwiaXNzdWVkX2F0IjoxNjU1NDExNDIwfQ; sessionid=8397574991%3AsKUAs9gWHkCab8%3A28; rur=\"NAO\\0548397574991\\0541686947697:01f7de3f65ba69395a0b88a5510413a92084d37098727288cf8c3e50b3721d502074e854\"",
+      "x-ig-app-id": "936619743392459",
+      "authority": "i.instagram.com",
+      "method": "GET",
+      "path": "/api/v1/friendships/46439992559/followers/?count=12&search_surface=follow_list_page",
+      "scheme": "https",
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "es-ES,es;q=0.9,en;q=0.8",
+      "origin": "https://www.instagram.com",
+      "referer": "https://www.instagram.com/",
+      "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"102\", \"Google Chrome\";v=\"102\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-site",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+      "x-asbd-id": "198387",
+      "x-csrftoken": "Ben4ytqee2KfKhKfbxwEMa6EEgrLCxd5"
     }
   }
 }
